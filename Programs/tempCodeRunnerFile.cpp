@@ -1,5 +1,2 @@
-
-// {
-//     int length;
-//     int bredth;
-// }
+t << t1.name << endl
+    //      << 
