@@ -1,2 +1,4 @@
-t << t1.name << endl
-    //      << 
+cher()
+    {
+        dept = "computer science";
+    };
